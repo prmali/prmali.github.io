@@ -7,10 +7,10 @@ import Topbar from './components/Topbar/index.js';
 import Footer from './components/Footer/index.js';
 
 import Home from './screens/Home';
-import Projects from './screens/Projects';
+/*import Projects from './screens/Projects';
 import Experience from './screens/Experience';
 import Resume from './screens/Resume';
-import Invalid from './screens/Invalid';
+import Invalid from './screens/Invalid';*/
 
 const App = props => {
 	return (
